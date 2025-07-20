@@ -31,7 +31,7 @@ Trigger Tracker is a web application designed to help users track their triggers
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/trigger-tracker.git
+git clone [https://github.com/yourusername/trigger-tracker.git](https://github.com/Monametsi-s/trigger-tracker)
 cd trigger-tracker
 ```
 
